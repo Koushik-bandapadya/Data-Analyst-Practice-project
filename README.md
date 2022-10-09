@@ -12,4 +12,4 @@ This sf_boba_tea_shop_data.csv data is being cleaned by various methods. Example
 
 5. Correct the ratings data
 
-6.Clean up the latitude and longitude data
+6.Clean up the latitude and longitude data.
